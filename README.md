@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:developerzull@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="35" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/developerzull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/developerzull/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@zulfequar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@zulfequar" height="30" width="40" /></a>
 </p>
