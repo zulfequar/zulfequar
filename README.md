@@ -1,4 +1,4 @@
-[![MasterHead](https://www.doditsolutions.com/wp-content/uploads/doditdolutions-Android-ios-app-development-banner.png)](https://www.linkedin.com/in/developerzull/)
+[![MasterHead](https://www.doditsolutions.com/wp-content/uploads/doditdolutions-Android-ios-app-development-banner.png)](https://www.linkedin.com/in/developerzull/ "Android and iOS App Development")
 <h1 align="center">Hi 👋, I'm Zulfequar Ali</h1>
 <h3 align="center">A curious and passionate Android & iOS developer from India</h3>
 
