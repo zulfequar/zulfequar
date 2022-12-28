@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfequar&label=Profile%20views&color=0e75b6&style=flat" alt="zulfequar" /> </p>
 
-- 👀 I’m interested in creating useful and interesting **mobile apps**.
-- 🌱 I’m currently learning **DevOps** and **React Native**.
-- 💞️ I’m looking to collaborate on mobile app projects using **React Native**.
+- 👀 I’m interested in developing amazing and useful **Android & iOS Mobile Apps**.
+- 🌱 I’m currently learning **DevOps, Dart** and **Flutter**.
+- 💞️ I’m looking to collaborate on mobile app projects using **Flutter**.
 - 📫 You can reach me at **developerzull@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
