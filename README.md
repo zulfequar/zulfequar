@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [DropMe](www.myprojects.link/dropme) -->
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Dart, Flutter & DevOps (CI/CD)**
 
 <!-- - 👯 I’m looking to collaborate on [Meesho](www.myprojects.link/meesho) -->
 
@@ -25,7 +25,7 @@
 
 <!-- - 📄 Know about my experiences [www.linkedin.com](www.linkedin.com) -->
 
-- ⚡ Fun fact **I am creative & funny**
+- ⚡ Fun fact: **I am creative & funny**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
