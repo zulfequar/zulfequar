@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [DropMe](www.myprojects.link/dropme) -->
 
-- 🌱 I’m currently learning **Dart, Flutter & DevOps (CI/CD)**
+- 🌱 I’m currently learning more about **Dart & Flutter**
 
 <!-- - 👯 I’m looking to collaborate on [Meesho](www.myprojects.link/meesho) -->
 
@@ -19,7 +19,7 @@
 
 <!-- - 📝 I regularly write articles on [www.blogger.com](www.blogger.com) -->
 
-- 💬 Ask me about **Dart, Flutter, SAP Fiori, Android & iOS Apps**
+- 💬 Ask me about **Dart, Flutter, Android & iOS Apps**
 
 - 📫 Reach me at **developerzull@gmail.com**
 
